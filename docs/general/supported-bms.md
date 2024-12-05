@@ -50,6 +50,8 @@ Works also for:
 
 ### &bull; [EG4](https://eg4electronics.com/) LL
 
+### &bull; [Litime BMS](https://www.litime.com)
+
 ### &bull; [Heltec Modbus SmartBMS](https://heltec-bms.com) / [YanYang BMS](http://en.yybms.com)
 
 Communication to the Heltec SmartBMS (which is a rebranded YYBMS) via Modbus/RS485.
@@ -93,6 +95,8 @@ Works for the Seplos v3 BMS which uses different (Modbus) protocol than the earl
 ### &bull; [Sinowealth](https://en.sinowealth.com)
 
 Disabled by default since driver version `v0.14.0` as it causes other issues. See [How to enable a disabled BMS](../general/install.md#how-to-enable-a-disabled-bms) to enable the BMS.
+
+
 
 | Android | iOS |
 | - |-|
